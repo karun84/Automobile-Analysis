@@ -2,8 +2,8 @@
 
 This project descibes a Chinese automobile company which aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to gice competition to their US counterparts.
 The main objective of this project is to:
-    * Which variables are significant in predicting the price of a car
-    * How well those variables describe the price of a car
+     1. Which variables are significant in predicting the price of a car
+     2. How well those variables describe the price of a car
 
 Steps involved:
 
